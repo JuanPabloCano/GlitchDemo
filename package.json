@@ -1,0 +1,18 @@
+{
+  "name": "servidores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./expressServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "keywords": [],
+  "description": ""
+}
